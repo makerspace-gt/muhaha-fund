@@ -15,49 +15,47 @@ Bitte laden Sie eine aktuelle Fassung des Freistellungsbescheids (Körperschafts
 *Felder mit * sind Pflichtfelder.*
 
 #### Organisationsname*
-
+Makerspace Gütersloh
 
 #### Rechtsform*
-
+e.V.
 
 #### Beschreibung*
-
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
 #### Webseite
-
+https://makerspace-gt.de
 
 #### Adresse*
-
+c/o Die Weberei, Bogenstraße 1–8, 33330 Gütersloh
 
 #### Allgemeine Telefonnummer
-
+05241 2249910
 
 
 ### Kontoverbindung
 
 #### Kontoinhaber*
-
+Makerspace Gütersloh e.V.
 
 #### IBAN*
-
+DE52 4786 0125 1226 2315 00
 
 #### Kreditinstitut*
-
-
+Volksbank in Ostwestfalen eG
 
 ### Steuerliche Angaben
 
 #### Steuernummer*
-
+351/5913/8437
 
 #### Finanzamt*
-
-
+Gütersloh
 
 ### Bescheid zur steuerlichen Begünstigung
 
 #### Nachweis*
-
+Freistellungsbescheid
 
 #### Ausstellungsdatum*
 
@@ -69,48 +67,48 @@ Bitte laden Sie eine aktuelle Fassung des Freistellungsbescheids (Körperschafts
 
 
 #### Geförderte(r) Zweck(e) nach*
-
+§§ 51 ff. AO Wissenschaft und Forschung (§ 52 Abs. 2 Satz 1 Nr. 1 AO), Kunst und Kultur (§ 52 Abs. 2 Satz 1 Nr. 5 AO), Volks- und Berufsbildung einschließlich der Studienhilfe (§ 52 Abs. 2 Satz 1 Nr. 7 AO)
 
 
 ## Kontaktperson
 
 #### Vorname*
-
+Michael
 
 #### Nachname*
-
+Prange
 
 #### Position
-
+Vorstand
 
 #### Telefonnummer*
-
+xxxxxxxxxxxxx
 
 #### E-Mail*
+post@makerspace-gt.de
 
-
-- [ ] Darf im Namen der Organisation handeln.
+- [x] Darf im Namen der Organisation handeln.
 
 
 ## Informationen zum Projekt
 
 #### Titel*
-
+muhaha
 
 #### Projektbeschreibung*
 
 
 #### Angefragte Unterstützung*
-
+9.630,00 €
 
 #### Gesamtkosten des Projekts*
-
+12.549,97 €
 
 #### Gewünschtes Förderdatum
-
+01.09.2026
 
 #### Bereits eingeworbene Drittmittel
-
+4% Rabatt von OMTech
 
 
 ## Nachhaltigkeitsziele
@@ -121,14 +119,15 @@ Wenn Ihr Projekt die entsprechenden Kriterien erfüllt, haben Sie hier die Mögl
 [Erfahren Sie hier mehr über die 17 Ziele der Vereinten Nationen.](https://17ziele.de/)
 
 #### Primäres Ziel*
-
+4 - Hochwertige Bildung
 
 #### Sekundäre Ziele
-
+9 - Industrie, Innovation und Infrastruktur  
+10 – Weniger Ungleichheiten
 
 
 #### E-Mail des Absenders*
-
+post@makerspace-gt.de
 
 
 ### Erklärungen und Datenschutz
@@ -136,5 +135,5 @@ Dieses Online-Formular wird von der Volksbank in Ostwestfalen eG bereitgestellt.
 
 Bitte lesen Sie die [Datenschutzhinweise](https://www.volksbankinostwestfalen.de/datenschutz.html) und das [Impressum](https://www.volksbankinostwestfalen.de/impressum.html) der Volksbank in Ostwestfalen eG, bevor Sie Ihren Antrag absenden.
 
-- [ ] Ich bestätige, dass ich den Hinweis gelesen habe und die Datenschutzhinweise der Volksbank in Ostwestfalen eG verstanden habe.
-- [ ] Ich bin autorisiert, diesen Förderantrag im Namen der oben genannten Organisation einzureichen, und versichere die Richtigkeit aller Angaben.
+- [x] Ich bestätige, dass ich den Hinweis gelesen habe und die Datenschutzhinweise der Volksbank in Ostwestfalen eG verstanden habe.
+- [x] Ich bin autorisiert, diesen Förderantrag im Namen der oben genannten Organisation einzureichen, und versichere die Richtigkeit aller Angaben.
