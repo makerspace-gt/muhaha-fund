@@ -101,6 +101,9 @@ muhaha
 #### Angefragte Unterstützung*
 9.630,00 €
 
+#### Eigenanteil
+2.417,99 €
+
 #### Gesamtkosten des Projekts*
 12.549,97 €
 
