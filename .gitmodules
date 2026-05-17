@@ -1,3 +1,6 @@
 [submodule "funds"]
 	path = makerspace-gt/funds
 	url = https://github.com/makerspace-gt/funds
+[submodule "makerspace-gt/protokolle"]
+	path = makerspace-gt/protokolle
+	url = https://github.com/makerspace-gt/protokolle.git
