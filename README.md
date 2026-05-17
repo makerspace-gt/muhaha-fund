@@ -23,6 +23,21 @@ e.V.
 #### Beschreibung*
 Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
+Unsere Ausstattung deckt ein breites Spektrum ab. Elektronik. Reparatur. 3D-Druck. Textil. Lounge. Workstations. Foto. Audio. Video. Virtual Reality. IT. Holz. Laser. Was einzelne Bereiche bereits für sich bieten, übertrifft oft die Ausstattung einer privaten Hobbywerkstatt. Und als Gesamtpaket erst recht.
+Lötstationen, Messgeräte und ein Bauteillager mit Elektronikkomponenten, Klebstoffen, Schmiermitteln und Schrauben bilden die Basis für Eigenbau, Fehlersuche und Instandsetzung.
+3D-Drucker produzieren Objekte in nahezu jeder Form. Von großen, funktionalen Bauteilen bis zu kleinen, filigranen Miniaturen.
+Näh- und Stickmaschinen, Plotter und Siebdruck ermöglichen die Verarbeitung und Veredelung von Textilien und Leder.
+Sofa, Beamer, Stehtisch und Küchenzeile laden in der Lounge zu Präsentationen, Workshops und Vereinsabenden ein.
+Leistungsfähige Laptops sind eingerichtet für Recherche, Programmierung, Konstruktion und Dokumentation. Aber wer möchte, bringt ein eigenes Gerät mit.
+Kameras, Stative, Mikrofone und Beleuchtung stehen für Live-Streams, Podcasts, Kurzfilme und Fotografien bereit.
+Vernetzte Messgeräte, iPad und VR-Headset lassen die physische und digitale Welt verschmelzen. Echtweltdaten werden erfasst, virtuelle Prototypen erstellt und erlebt, bevor Material verarbeitet wird.
+Parallel betreiben wir auf unserer eigenen IT-Infrastruktur Dienste wie ein Forum, einen Cloudspeicher und eine Projektmanagement-Software mit Monitoring und Backups. Diese machen es einfach sich auszutauschen und gemeinsam etwas zu schaffen.
+Im Holzbereich findet sich von Stechbeitel über Handkreissäge und Abrichte bis zur CNC-Fräse alles zum Vorbereiten, Zuschneiden, Verbinden und Versiegeln.
+Mittels Laserschneiden und -gravieren lassen sich Holz, Acryl, Glas und Metall bearbeiten.
+Perfekt für Modellbau, personalisierte Geschenke, Spiele, oder zusammengefasst alles, was sich zeichnen lässt. 
+Der Kreativität sind keine Grenzen gesetzt.
+
+
 #### Webseite
 https://makerspace-gt.de
 
