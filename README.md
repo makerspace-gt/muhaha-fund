@@ -116,7 +116,7 @@ muhaha
 01.09.2026
 
 #### Bereits eingeworbene Drittmittel
-4% Rabatt von OMTech
+502,00 € in Form von 4% Rabatt vom Hersteller OMTech
 
 
 ## Nachhaltigkeitsziele
