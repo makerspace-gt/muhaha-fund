@@ -104,6 +104,14 @@ muhaha
 #### Gesamtkosten des Projekts*
 12.549,97 €
 
+##### Einkaufsliste
+|  Nr.  | Beschreibung              | Hersteller | Typ                            |           Preis |        Rabatt |          Betrag | Shop   | Link                                                                                                                            |
+| :---: | ------------------------- | ---------- | ------------------------------ | --------------: | ------------: | --------------: | ------ | ------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | 90W CO2 Laser (900x600mm) | OMTech     | Pronto-40 (mit Entladeservice) |      5.799,99 € | 4% / 232,00 € |      5.567,99 € | OMTech | https://de.omtech.com/products/80w-co2-laser-cutter-graviermaschine-mit-900x600mm-gravurflache-pronto-40?variant=43912038514870 |
+|   2   | 60W MOPA JPT Laser        | OMTech     | M-60                           |      6.099,99 € | 4% / 244,00 € |      5.855,99 € | OMTech | https://de.omtech.com/products/60w-mopa-jpt-laser-graviermaschine                                                               |
+|   3   | 300W Rauchabsauger        | OMTech     | LSP-300 (mit Ersatzfilter-Set) |        649,99 € |  4% / 26,00 € |        623,99 € | OMTech | https://de.omtech.com/products/300w-rauchabsauger-mit-4-schichten-filter-fuer-lasercutter?variant=44513382105270                |
+|       | **Summe**                 |            |                                | **12.549,97 €** |  **502,00 €** | **12.047,97 €** |        |                                                                                                                                 |
+
 #### Gewünschtes Förderdatum
 01.09.2026
 
