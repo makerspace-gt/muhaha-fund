@@ -37,6 +37,11 @@ Mittels Laserschneiden und -gravieren lassen sich Holz, Acryl, Glas und Metall b
 Perfekt für Modellbau, personalisierte Geschenke, Spiele, oder zusammengefasst alles, was sich zeichnen lässt. 
 Der Kreativität sind keine Grenzen gesetzt.
 
+Für viele Bürger:innen sind die monatlichen Repair Cafés in der Stadtbibliothek Gütersloh der erste Kontakt mit dem Makerspace. Personen, die sich kreativ ausleben und neue Dinge erschaffen wollen, laden wir zu meet'n'greet, offener Werkstatt, Nähbar, Workshops und Austauschtreffen in unsere Räume in der Weberei ein. Dabei lernen wir mehr über ihre Projekte und unterstützen sie bei dem, was sie alleine nicht umsetzen könnten.
+Mitgliedern bieten wir die Möglichkeit, die Werkstatt zu weiteren Zeiten zu nutzen, am Plenum teilzunehmen, den Makerspace weiterzuentwickeln und selbst Austauschformate oder Exkursionen anzubieten. Sie können den Makerspace zu dem Ort machen, den sie wollen.
+Auch über die Stadtbibliothek und Weberei hinaus sind wir in Gütersloh zu finden. Gemeinsam mit anderen Initiativen des Klimabüros nehmen wir an teil an dem Digital Independence Day und der Klimawoche. Wir präsentieren uns bei Veranstaltungen der Stadt wie Bürgertag, LangeNachtDerKunst und Digitaltag. Wir haben einen Azubitag der Volksbank ausgerichtet und stehen in Kontakt zur IMA GT und der Hochschule Bielefeld.
+Speziell für Kinder und Jugendliche sind wir vielfältig aktiv. Wir produzieren Material für das Spielmobil Borgholzhausen, unterstützen die Stadtbibliothek bei den MINT-Wochen, öffnen unsere Türen beim Maustag und sind ein kreativraum der Walter Blüchert Stiftung. Wir bieten Kindern und Jugendlichen damit niedrigschwellig eine handwerkliche, technische und kreative Erfahrung zur Berufsorientierung. Gerade für die, die zu Hause weniger Unterstützung erhalten, ist unsere Werkstatt ein Ort, an dem sie Fähigkeiten entwickeln und Vertrauen in die eigenen Hände gewinnen können.
+
 
 #### Webseite
 https://makerspace-gt.de
