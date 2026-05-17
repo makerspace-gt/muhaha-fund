@@ -42,44 +42,24 @@ Die Volksbank Stiftung hat mit Beschluss des Stiftungsrats gemäß § 11 Abs. 2 
 
 ## § 5  Nachweis- und Mitteilungspflichten, Öffentlichkeitsarbeit
 
-1. Förderungen in größerem Umfang werden in der Regel durch schriftliche Verträge geregelt. Die Vereinbarungen sollen über die sonstigen Fördervoraussetzungen hinaus insbesondere folgende Regelungen
-enthalten:
-2. Bei Projektförderungen informiert die geförderte Einrichtung die Stiftung in vereinbarten, regelmäßigen
-Abständen über den Verlauf und das Ergebnis aller Tätigkeiten und Maßnahmen. Bei außergewöhnlichen
-Entwicklungen ist die Stiftung unmittelbar zu informieren.
-3. Die zweckentsprechende Verwendung der Fördermittel ist grundsätzlich durch Vorlage eines Sachberichts und der diesbezüglichen Rechnungslegung oder sonst geeigneter Belege innerhalb der vereinbarten
-Frist nachzuweisen.
-4. Wurden zur Erfüllung des Zuwendungszwecks Gegenstände angeschafft oder hergestellt, so dürfen
-diese nur mit Zustimmung der Stiftung verkauft oder einer anderen Verwendung zugeführt werden.
-5. Die geförderte Einrichtung weist insbesondere in ihren Berichten und Materialien, Präsentationen und
-Veranstaltungen im Rahmen ihrer Informations- und Öffentlichkeitsarbeit zu dem Projekt / der Maßnahme auf die Unterstützung durch die Stiftung hin. Sie stimmt die Berichterstattung in den Medien mit der
-Stiftung ab.
+1. Förderungen in größerem Umfang werden in der Regel durch schriftliche Verträge geregelt. Die Vereinbarungen sollen über die sonstigen Fördervoraussetzungen hinaus insbesondere folgende Regelungen enthalten:
+2. Bei Projektförderungen informiert die geförderte Einrichtung die Stiftung in vereinbarten, regelmäßigen Abständen über den Verlauf und das Ergebnis aller Tätigkeiten und Maßnahmen. Bei außergewöhnlichen Entwicklungen ist die Stiftung unmittelbar zu informieren.
+3. Die zweckentsprechende Verwendung der Fördermittel ist grundsätzlich durch Vorlage eines Sachberichts und der diesbezüglichen Rechnungslegung oder sonst geeigneter Belege innerhalb der vereinbarten Frist nachzuweisen.
+4. Wurden zur Erfüllung des Zuwendungszwecks Gegenstände angeschafft oder hergestellt, so dürfen diese nur mit Zustimmung der Stiftung verkauft oder einer anderen Verwendung zugeführt werden.
+5. Die geförderte Einrichtung weist insbesondere in ihren Berichten und Materialien, Präsentationen und Veranstaltungen im Rahmen ihrer Informations- und Öffentlichkeitsarbeit zu dem Projekt / der Maßnahme auf die Unterstützung durch die Stiftung hin. Sie stimmt die Berichterstattung in den Medien mit der Stiftung ab.
 
 ## § 6  Eigene Zweckverwirklichung
 
-1. Gemäß § 2 Abs. 2 der Stiftungssatzung kann die Stiftung ihre Zwecke auch selbst verwirklichen. Hierunter ist eine unmittelbare Zweckerfüllung durch eigenes Tätigwerden der Stiftung zur direkten Förderung
-zu verstehen, also die eigene Konzipierung und Durchführung von Fördermaßnahmen im Gegensatz zur
-Mittelweitergabe.
-2. Eine eigene Zweckverwirklichung liegt auch dann vor, wenn die Stiftung die Zweckerfüllung nicht durch
-eigenes Personal, sondern durch sog. Hilfspersonen im Sinne des § 57 Abs. 1 Satz 2 AO ausführt. Dazu muss
-die Stiftung jederzeit rechtlich und tatsächlich auf das Wirken der Hilfsperson einwirken können, so dass
-das Handeln der Hilfsperson wie eigenes Wirken der Stiftung anzusehen ist, z.B. durch Auftragsvergabe.
-3. Als Möglichkeit eigener Zweckverwirklichung kommt auch die gemeinsame Projektträgerschaft mit
-geeigneten Partnern in Betracht.
+1. Gemäß § 2 Abs. 2 der Stiftungssatzung kann die Stiftung ihre Zwecke auch selbst verwirklichen. Hierunter ist eine unmittelbare Zweckerfüllung durch eigenes Tätigwerden der Stiftung zur direkten Förderung zu verstehen, also die eigene Konzipierung und Durchführung von Fördermaßnahmen im Gegensatz zur Mittelweitergabe.
+2. Eine eigene Zweckverwirklichung liegt auch dann vor, wenn die Stiftung die Zweckerfüllung nicht durch eigenes Personal, sondern durch sog. Hilfspersonen im Sinne des § 57 Abs. 1 Satz 2 AO ausführt. Dazu muss die Stiftung jederzeit rechtlich und tatsächlich auf das Wirken der Hilfsperson einwirken können, so dass das Handeln der Hilfsperson wie eigenes Wirken der Stiftung anzusehen ist, z.B. durch Auftragsvergabe.
+3. Als Möglichkeit eigener Zweckverwirklichung kommt auch die gemeinsame Projektträgerschaft mit geeigneten Partnern in Betracht.
 
 ## § 7  Anforderungen an die Hilfsperson / den Projektpartner
 
 1. Als „Hilfsperson“ kommen auch natürliche Personen und Einrichtungen in Betracht, die nicht gemeinnützig sind oder die keine Körperschaft im Sinne des § 58 Nr. 1 AO bzw. § 3 dieser Richtlinien sind.
-2. Die Hilfsperson wird aufgrund konkreter Weisungen der Stiftung tätig, denen ein schriftlich vereinbartes Auftragsverhältnis zugrunde liegt. In dem Vertrag sind der Hilfsperson klare Auflagen hinsichtlich
-der Durchführung der entsprechenden Maßnahme(n) und der dabei zu verwendenden Mittel zu machen,
-verbunden mit der Verpflichtung, zu bestimmten Zeiten Rechenschaft über die Aktivitäten und die verwendeten Mittel abzulegen.
-3. Bei gemeinsamen Projektträgerschaften sollen solche Partner gewählt werden, die insbesondere durch
-ihr Ansehen und ihre Kompetenz und in Übereinstimmung mit den Projektzielen der Stiftung zur Verbesserung der Wirkungschancen im Interesse des Gemeinwohls beitragen können. Der Projektpartner soll
-vorzugsweise eine gemeinnützige oder öffentlich-rechtliche Körperschaft sein. Die Zusammenarbeit ist
-grundsätzlich in einem schriftlichen Kooperationsvertrag festzulegen.
+2. Die Hilfsperson wird aufgrund konkreter Weisungen der Stiftung tätig, denen ein schriftlich vereinbartes Auftragsverhältnis zugrunde liegt. In dem Vertrag sind der Hilfsperson klare Auflagen hinsichtlich der Durchführung der entsprechenden Maßnahme(n) und der dabei zu verwendenden Mittel zu machen, verbunden mit der Verpflichtung, zu bestimmten Zeiten Rechenschaft über die Aktivitäten und die verwendeten Mittel abzulegen.
+3. Bei gemeinsamen Projektträgerschaften sollen solche Partner gewählt werden, die insbesondere durch ihr Ansehen und ihre Kompetenz und in Übereinstimmung mit den Projektzielen der Stiftung zur Verbesserung der Wirkungschancen im Interesse des Gemeinwohls beitragen können. Der Projektpartner soll vorzugsweise eine gemeinnützige oder öffentlich-rechtliche Körperschaft sein. Die Zusammenarbeit ist grundsätzlich in einem schriftlichen Kooperationsvertrag festzulegen.
 
 ## § 8  Anpassung
 
-Diese Richtlinien zur Vergabe der Stiftungsmittel sind laufend sich ändernden Umständen und Bedürfnissen
-anzupassen und im Hinblick auf gewonnene Erkenntnisse und Erfahrungen zu überarbeiten. Eine entsprechende Prüfung der Richtlinien soll mindestens einmal pro Jahr durch den Vorstand erfolgen, der sein
-Prüfungsergebnis, ggf. mit Änderungsvorschlägen, dem Stiftungsrat vorlegt.
+Diese Richtlinien zur Vergabe der Stiftungsmittel sind laufend sich ändernden Umständen und Bedürfnissen anzupassen und im Hinblick auf gewonnene Erkenntnisse und Erfahrungen zu überarbeiten. Eine entsprechende Prüfung der Richtlinien soll mindestens einmal pro Jahr durch den Vorstand erfolgen, der sein Prüfungsergebnis, ggf. mit Änderungsvorschlägen, dem Stiftungsrat vorlegt.
