@@ -42,6 +42,8 @@ Mitgliedern bieten wir die Möglichkeit, die Werkstatt zu weiteren Zeiten zu nut
 Auch über die Stadtbibliothek und Weberei hinaus sind wir in Gütersloh zu finden. Gemeinsam mit anderen Initiativen des Klimabüros nehmen wir an teil an dem Digital Independence Day und der Klimawoche. Wir präsentieren uns bei Veranstaltungen der Stadt wie Bürgertag, LangeNachtDerKunst und Digitaltag. Wir haben einen Azubitag der Volksbank ausgerichtet und stehen in Kontakt zur IMA GT und der Hochschule Bielefeld.
 Speziell für Kinder und Jugendliche sind wir vielfältig aktiv. Wir produzieren Material für das Spielmobil Borgholzhausen, unterstützen die Stadtbibliothek bei den MINT-Wochen, öffnen unsere Türen beim Maustag und sind ein kreativraum der Walter Blüchert Stiftung. Wir bieten Kindern und Jugendlichen damit niedrigschwellig eine handwerkliche, technische und kreative Erfahrung zur Berufsorientierung. Gerade für die, die zu Hause weniger Unterstützung erhalten, ist unsere Werkstatt ein Ort, an dem sie Fähigkeiten entwickeln und Vertrauen in die eigenen Hände gewinnen können.
 
+Unser Makerspace wird betrieben und weiterentwickelt von engagierten Bürger:innen. Ausstattung, Öffnungszeiten und Veranstaltungen spiegeln wider, wofür unsere Mitglieder brennen. Wir sind ein Dritter Ort, offen und unentgeltlich für alle, beheimatet im Kulturzentrum DIE Weberei. Daher sind wir neben Mitgliedsbeiträgen und Spenden von Gästen auf Sachspenden und Förderungen angewiesen, um unser Angebot halten und erweitern zu können.
+
 
 #### Webseite
 https://makerspace-gt.de
